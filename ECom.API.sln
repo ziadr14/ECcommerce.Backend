@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECom.API", "ECom.API\ECom.API.csproj", "{1691D751-BFAF-41DB-B113-F5509DA47B08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECom.BLL", "ECom.BLL\ECom.BLL.csproj", "{61B231A6-A497-4C3F-AC38-2706F089AF5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECom.DAL", "ECom.DAL\ECom.DAL.csproj", "{A16D1E25-F785-4167-A400-AFB56B136440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1691D751-BFAF-41DB-B113-F5509DA47B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1691D751-BFAF-41DB-B113-F5509DA47B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1691D751-BFAF-41DB-B113-F5509DA47B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1691D751-BFAF-41DB-B113-F5509DA47B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B231A6-A497-4C3F-AC38-2706F089AF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B231A6-A497-4C3F-AC38-2706F089AF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B231A6-A497-4C3F-AC38-2706F089AF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B231A6-A497-4C3F-AC38-2706F089AF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16D1E25-F785-4167-A400-AFB56B136440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16D1E25-F785-4167-A400-AFB56B136440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16D1E25-F785-4167-A400-AFB56B136440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16D1E25-F785-4167-A400-AFB56B136440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BC6CCC-FE51-4EDE-AD77-E582EF4689C5}
+	EndGlobalSection
+EndGlobal
